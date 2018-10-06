@@ -16,5 +16,5 @@ else:
     elif (pozx > 0.9 * rozmiar_plansza) and (pozy > 0.1 * rozmiar_plansza) and (pozy < 0.9 * rozmiar_plansza):
         print("Jesteś na prawej krawędzi planszy")
 
-    elif (pozx > 0.9 * rozmiar_plansza) and (pozy > 0.1 * rozmiar_plansza) and (pozy < 0.9 * rozmiar_plansza):
-        print("Jesteś na prawej krawędzi planszy")
+    elif (pozx < 0.9 * rozmiar_plansza) and (pozx > 0.1 * rozmiar_plansza) and (pozy > 0.1 * rozmiar_plansza) and (pozy < 0.9 * rozmiar_plansza):
+        print("Jesteś w cetrum planszy")
