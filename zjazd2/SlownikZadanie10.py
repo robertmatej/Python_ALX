@@ -2,4 +2,4 @@
 
 napis= input ('Wpsisz napis do zliczenia znakow:  ')
 
-
+#fdgsgs
