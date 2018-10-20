@@ -32,3 +32,12 @@ print (my_dict.values())
 print('produkty w lodówce')
 for p in produkty:
     print(p['nazwa'])
+
+
+# kwadraty
+kwadraty = [x**2 for x in range(1,100)]
+
+kwadraty = []
+for x in range(1,101):
+    kwadraty.append(x**2)
+
