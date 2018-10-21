@@ -12,7 +12,7 @@ while i <= dni:
     i += 1
     # numer_dnia+=1
 # można znaleźć tmp min i max z okresu
-  '''  if i==1:
+'''  if i==1:
         min_=temp   
         max_=temp
     else:

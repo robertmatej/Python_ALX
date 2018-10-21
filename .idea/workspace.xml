@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cd1ff06-79b9-49f5-a0ee-47d9eb4e17b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZad2zjazd1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie10zeZjazd1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie13zeZjazd1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie15ze zjazd1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie4zezjazd1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie5zeZjazd1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4V2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/Zadanie_testowe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd2/Dzien_2/cwiczenia_rozne.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd2/zadanie9slownik.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd2/zadanie9slownik.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd1/yadanie4.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd1/zadanie4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd1/zadanie13.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd1/zadanie13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd1/zadanie15.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd1/zadanie15.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,33 +33,35 @@
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="py" value="33" />
+          <entry key="py" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="33" />
+          <entry key="Python" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="111" />
+          <entry key="dummy" value="17" />
           <entry key="gitignore" value="11" />
-          <entry key="py" value="12959" />
+          <entry key="py" value="18113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="13070" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="18224" />
         </counts>
       </usages-collector>
     </session>
@@ -54,46 +69,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zjazd1/zad11WYKLADOWCA.py">
+        <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="45" selection-start-column="45" selection-end-column="45" />
+            <state relative-caret-position="85">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding>
+                <marker date="1540112833809" expanded="true" signature="536:798" ph="..." />
+                <marker date="1540112833809" expanded="true" signature="820:925" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zjazd1/listyZadanie3.py">
+        <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/Zadanie_testowe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="153">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <marker date="1540129202411" expanded="true" signature="31:36" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zjazd2/zadanie9slownik.py">
+        <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4V2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zjazd1/ListyZadanie8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zjazd1/ListyZadanie8Wykladowca.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="25" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -131,10 +144,8 @@
         <option value="$PROJECT_DIR$/zjazd1/zad11WYKLADOWCA.py" />
         <option value="$PROJECT_DIR$/zjazd1/Zadanie12.py" />
         <option value="$PROJECT_DIR$/zjazd1/zad13Wykladowiec.py" />
-        <option value="$PROJECT_DIR$/zjazd1/zadanie13.py" />
         <option value="$PROJECT_DIR$/zjazd1/zadanie14.py" />
         <option value="$PROJECT_DIR$/zjazd1/petlaWhile.py" />
-        <option value="$PROJECT_DIR$/zjazd1/zadanie15.py" />
         <option value="$PROJECT_DIR$/zjazd1/Przyklady.py" />
         <option value="$PROJECT_DIR$/zjazd1/TupleZadanie1.py" />
         <option value="$PROJECT_DIR$/zjazd1/listyZadanie2.py" />
@@ -148,12 +159,28 @@
         <option value="$PROJECT_DIR$/zjazd1/ListyZadanie8Wykladowca.py" />
         <option value="$PROJECT_DIR$/zjazd2/cwiczenia_ogolne.py" />
         <option value="$PROJECT_DIR$/zjazd2/zadanie9slownik.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/cwiczenia_rozne.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie3.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZad2zjazd1.py" />
+        <option value="$PROJECT_DIR$/zjazd1/zadanie4.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie2zezjazd1.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/.pytest_cache/FunkcjeZadanie5zeZjazd1.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie4zezjazd1.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie5zeZjazd1.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie10zeZjazd1.py" />
+        <option value="$PROJECT_DIR$/zjazd1/zadanie13.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie13zeZjazd1.py" />
+        <option value="$PROJECT_DIR$/zjazd1/zadanie15.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie15ze zjazd1.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/Zadanie_testowe.py" />
+        <option value="$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4V2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="209" />
-    <option name="y" value="9" />
+    <option name="x" value="214" />
+    <option name="y" value="4" />
     <option name="width" value="1471" />
     <option name="height" value="1000" />
   </component>
@@ -173,12 +200,13 @@
             <path>
               <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="zjazd1" type="462c0819:PsiDirectoryNode" />
+              <item name="zjazd2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
               <item name="zjazd2" type="462c0819:PsiDirectoryNode" />
+              <item name="Dzien_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,10 +216,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4.py" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd2\Dzien_2" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp" />
     </key>
   </component>
@@ -207,8 +237,92 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zadanie9slownik">
-    <configuration name="ListyZadanie7Wykladowca" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unnamed (1)">
+    <configuration name="FunkcjeZadanie13zeZjazd1" type="PythonConfigurationType" factoryName="Python">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd2/Dzien_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie13zeZjazd1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FunkcjeZadanie15ze zjazd1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd2/Dzien_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie15ze zjazd1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Funkcje_zadanie4" type="PythonConfigurationType" factoryName="Python">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd2/Dzien_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadanie_testowe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd2/Dzien_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd2/Dzien_2/Zadanie_testowe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zadanie15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,7 +334,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd1/ListyZadanie7Wykladowca.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd1/zadanie15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,104 +343,67 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListyZadanie8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unnamed (1)" type="tests" factoryName="py.test">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\kurs\PycharmProjects\bootcamp\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd1/ListyZadanie8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="ListyZadanie8Wykladowca" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unnamed" type="tests" factoryName="py.test">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\kurs\PycharmProjects\bootcamp\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd1/ListyZadanie8Wykladowca.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="cwiczenia_ogolne" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in Funkcje_zadanie4V2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd2/Dzien_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd2/cwiczenia_ogolne.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zadanie9slownik" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd2/zadanie9slownik.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4V2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.cwiczenia_ogolne" />
-      <item itemvalue="Python.ListyZadanie7Wykladowca" />
-      <item itemvalue="Python.ListyZadanie8" />
-      <item itemvalue="Python.ListyZadanie8Wykladowca" />
-      <item itemvalue="Python.zadanie9slownik" />
+      <item itemvalue="Python.FunkcjeZadanie13zeZjazd1" />
+      <item itemvalue="Python.Funkcje_zadanie4" />
+      <item itemvalue="Python tests.Unnamed" />
+      <item itemvalue="Python.FunkcjeZadanie15ze zjazd1" />
+      <item itemvalue="Python.Zadanie_testowe" />
+      <item itemvalue="Python.zadanie15" />
+      <item itemvalue="Python tests.pytest in Funkcje_zadanie4V2.py" />
+      <item itemvalue="Python tests.Unnamed (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zadanie9slownik" />
-        <item itemvalue="Python.cwiczenia_ogolne" />
-        <item itemvalue="Python.ListyZadanie8Wykladowca" />
-        <item itemvalue="Python.ListyZadanie8" />
-        <item itemvalue="Python.ListyZadanie7Wykladowca" />
+        <item itemvalue="Python tests.pytest in Funkcje_zadanie4V2.py" />
+        <item itemvalue="Python.Zadanie_testowe" />
+        <item itemvalue="Python.FunkcjeZadanie15ze zjazd1" />
+        <item itemvalue="Python.zadanie15" />
       </list>
     </recent_temporary>
   </component>
@@ -343,6 +420,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_FunkcjeZadanie4zezjazd1_test_drukuj - 2018.10.21 at 11h 45m 38s.xml">
+      <configuration name="pytest for FunkcjeZadanie4zezjazd1.test_drukuj" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_FunkcjeZadanie5zeZjazd1_py - 2018.10.21 at 12h 00m 10s.xml">
+      <configuration name="pytest in FunkcjeZadanie5zeZjazd1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Dzien_2 - 2018.10.21 at 13h 01m 17s.xml">
+      <configuration name="pytest in Dzien_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.10.21 at 15h 24m 09s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.10.21 at 15h 28m 23s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.10.21 at 15h 28m 58s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.10.21 at 15h 29m 40s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.10.21 at 15h 29m 58s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.10.21 at 15h 35m 15s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Funkcje_zadanie4V2_py - 2018.10.21 at 15h 47m 30s.xml">
+      <configuration name="pytest in Funkcje_zadanie4V2.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -353,7 +462,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="209" y="9" width="1471" height="1000" extended-state="0" />
+    <frame x="214" y="4" width="1471" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23726448" />
@@ -386,20 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zjazd1/zadanie6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -418,20 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd1/Zadanie8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -477,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zjazd1/TupleZadanie1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -509,13 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd1/ListyZadanie4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -547,27 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd1/ListyZadanie8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd1/ListyZadanie8Wykladowca.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -582,13 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd2/cwiczenia_ogolne.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zjazd1/listyZadanie3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -599,7 +638,214 @@
     <entry file="file://$PROJECT_DIR$/zjazd2/zadanie9slownik.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Funkcje_zadanie1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/cwiczenia_ogolne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Funkcje_zadanie2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/cwiczenia_rozne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <marker date="1540107551832" expanded="true" signature="19:24" ph="..." />
+            <marker date="1540107551832" expanded="true" signature="72:77" ph="..." />
+            <marker date="1540107551832" expanded="true" signature="209:256" ph="..." />
+            <marker date="1540107551832" expanded="true" signature="345:346" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/Zadanie8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/ListyZadanie8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/ListyZadanie8Wykladowca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/ListyZadanie4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" lean-forward="true" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie4zezjazd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <marker date="1540115137855" expanded="true" signature="30:31" ph="..." />
+            <marker date="1540115137855" expanded="true" signature="115:318" ph="..." />
+            <marker date="1540115137855" expanded="true" signature="336:341" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie10zeZjazd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie5zeZjazd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1540117660749" expanded="true" signature="537:538" ph="..." />
+            <marker date="1540117660749" expanded="true" signature="537:910" ph="..." />
+            <marker date="1540117660749" expanded="true" signature="910:964" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie13zeZjazd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <marker date="1540122830174" expanded="true" signature="27:272" ph="..." />
+            <marker date="1540122830174" expanded="true" signature="27:308" ph="..." />
+            <marker date="1540122830174" expanded="true" signature="395:400" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZad2zjazd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+          <folding>
+            <marker date="1540113724526" expanded="true" signature="26:129" ph="..." />
+            <marker date="1540113724526" expanded="true" signature="426:431" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd1/zadanie15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/FunkcjeZadanie15ze zjazd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="71" column="15" lean-forward="true" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
+          <folding>
+            <marker date="1540125058461" expanded="true" signature="510:512" ph="..." />
+            <marker date="1540125058461" expanded="true" signature="2059:2061" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <marker date="1540112833809" expanded="true" signature="536:798" ph="..." />
+            <marker date="1540112833809" expanded="true" signature="820:925" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/Zadanie_testowe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <marker date="1540129202411" expanded="true" signature="31:36" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd2/Dzien_2/Funkcje_zadanie4V2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="25" selection-end-column="54" />
         </state>
       </provider>
     </entry>
