@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp.iml" filepath="$PROJECT_DIR$/.idea/bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_Workspace.iml" filepath="$PROJECT_DIR$/.idea/Python_Workspace.iml" />
+      <module fileurl="file://D://Python_Workspace/../../Python_workspace/.idea/bootcamp.iml" filepath="D://Python_Workspace/../../Python_workspace/.idea/bootcamp.iml" />
     </modules>
   </component>
 </project>
