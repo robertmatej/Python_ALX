@@ -2,18 +2,21 @@ class ElectricCar():
 
     def __init__(self, zasieg):
         self.range = zasieg
-        self.distance = zasieg
+        self.possible_distance = zasieg
         # self.discharge = 0
 
     def charging(self):
-        return self.range == 100
+        self.possible_distance =  self.range
 
 
-    def drive(self, km):
-        self.range = self.range - km
-        if km >self.range:
-            print (f'Za mało baterii, naładuj. Zostało do przejechania: {self.range}')
-            return self.range
+    def drive(self, distance):
+        if distance >= self.possible_distance:
+            can_travel = self.possible_distance
+            self.possible_distance = 0
+            return can_travel
+
+        self.possible_distance -= distance
+        return distance
 
 
 #
@@ -27,5 +30,5 @@ def test_car_drive():
     assert car.drive(70) == 70
     assert car.drive(50) == 30
     assert car.drive(30) == 0
-    car.charge()
+    car.charging()
     assert car.drive(50) == 50
