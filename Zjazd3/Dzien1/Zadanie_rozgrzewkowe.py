@@ -34,8 +34,8 @@ imie = dog("Azor2")
 assert dog.get_energy() == 10
 dog.bark()
 dog.bark()
-assert dog.get_energy() = 8
+assert dog.get_energy() == 8
 dog.sleep()
 dog.sleep()
-assert dog.get_energy() = 10
+assert dog.get_energy() == 10
 

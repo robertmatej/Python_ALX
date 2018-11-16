@@ -11,11 +11,19 @@ b) konwertujemy cyfry, nie liczby, a zatem:
 '''
 
 import sys
+# ilosc_liczb = len(sys.argv)
+wejscie = list()
+lacznik = ' '
+for inp in sys.argv:
+    wejscie.append(inp)
 
-wejscie = sys.argv[1]
+wej_polaczone = lacznik.join(wejscie)
+#print(wej_polaczone)
 wyjscie = list()
 j=0
-for i in wejscie:
+space= ' '
+
+for i in wej_polaczone:
     if i== '1':
         wyjscie.insert(j, 'jeden ')
         j+=1
@@ -43,7 +51,11 @@ for i in wejscie:
     elif i== '9':
         wyjscie.insert(j, 'dziweięć ')
         j+=1
-    # elif i==' '
-    #     j+=1
+    elif i== '0':
+        wyjscie.insert(j, 'zero ')
+        j+=1
+    # else:
+    #     wyjscie.insert(j, '%')
+    #     j += 1
 
-print(wyjscie)
+print(space.join(wyjscie))

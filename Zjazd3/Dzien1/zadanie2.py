@@ -55,7 +55,7 @@ def test_employee_pay_salary_after_salary_was_payed():
 class PremiumEmployee(Employee):
 
     def __init__(self):             #nadpisałem poprzednią metodę init i wszsytko przepadło co tam mieliśmy ( w sensie ze nie dostepne w tej funkcji
-        super().__init__(imie,nazwisko,stawka)
+        super() .__init__(imie,nazwisko,stawka)
         self.bonus = 0
 
     def give_bonus(self,ammount):

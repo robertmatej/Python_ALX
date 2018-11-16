@@ -11,4 +11,4 @@ for i in range(len(liczby)):
     liczby[i], liczby[index_min] = liczby[index_min], liczby[i]
 
 #liczby[0], liczby[4] = liczby[4],liczby[0]
-print('Po: ', liczby)
+print('Po: ', liczby)b
