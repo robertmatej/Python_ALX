@@ -1,0 +1,9 @@
+import sys
+
+if len(sys.argv) > 1:
+    print (f" Hello world {sys.argv[1]} :)")
+
+else:
+    print ("Hello world !")
+
+input()

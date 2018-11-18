@@ -6,6 +6,7 @@ with urllib.request.urlopen("http://api.nbp.pl/api/exchangerates/tables/a?format
     kursy = json.loads(f.read())
 
 rates = kursy[0]['rates']
+print (rates)
 for r in rates:
     print(f"- {r['code']} - {r['mid']}")
 
