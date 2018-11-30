@@ -16,7 +16,7 @@ import json
 import urllib.request
 from collections import namedtuple
 
-Weather = namedtuple("Weather")
+#Weather = namedtuple("Weather")
 
 def get_location_id():
     url = f"https://www.metaweather.com/api/location/search/?query={location_id}"

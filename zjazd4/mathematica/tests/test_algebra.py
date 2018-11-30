@@ -28,6 +28,7 @@ def test_add_matrices_with_different_count_of_rows ():
 
     with pytest.raises(ValueError) :            # test sprawdza czy błąd zostanie rzuciony, zaimpoortowqaliśmy do tego pytest
         result = add_matrices(A,B)
+    assert result == []
 
 def test_sub_matrices():
     A = [
@@ -38,7 +39,7 @@ def test_sub_matrices():
         [7, 8, 9],
         [10, 11, 12],
         ]
-    result = add_matrices(A,B)
+    result = sub_matrices(A,B)
     assert result == [[-6, -6, -6],[-6, -6, -6]]
 
 

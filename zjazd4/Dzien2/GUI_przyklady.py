@@ -17,7 +17,6 @@ a_entry.pack()                          # powoduje pojawienie sę w oknie powyż
 # Parametr b
 b_label = tkinter.Label(master=root, text='Parametr b')
 b_label.pack()
-
 b_entry = tkinter.Entry(master = root)
 b_entry.pack()                          # powoduje pojawienie sę w oknie powyższej funkcji
 
